@@ -1,0 +1,9 @@
+src/app/code/core/Mage/Oauth/                                     app/code/core/Mage/Oauth/
+src/app/design/adminhtml/default/default/layout/oauth.xml         app/design/adminhtml/default/default/layout/oauth.xml
+src/app/design/adminhtml/default/default/template/oauth/          app/design/adminhtml/default/default/template/oauth/
+src/app/design/frontend/base/default/layout/oauth.xml             app/design/frontend/base/default/layout/oauth.xml
+src/app/design/frontend/base/default/template/oauth/              app/design/frontend/base/default/template/oauth/
+src/app/design/frontend/rwd/default/layout/oauth.xml              app/design/frontend/rwd/default/layout/oauth.xml
+src/app/design/frontend/rwd/default/template/oauth/               app/design/frontend/rwd/default/template/oauth/
+src/app/etc/modules/Mage_Oauth.xml                                app/etc/modules/Mage_Oauth.xml
+src/app/locale/en_US/Mage_Oauth.csv                               app/locale/en_US/Mage_Oauth.csv
