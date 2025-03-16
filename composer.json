@@ -5,6 +5,14 @@
     "type": "magento-module",
     "require": {
         "magento-hackathon/magento-composer-installer": "*",
-        "openmage-strict/module-core": "^120.2"
+        "openmage-strict/module-core": "^120.2",
+        "zf1s/zend-config": "*",
+        "zf1s/zend-controller": "*",
+        "zf1s/zend-db": "*",
+        "zf1s/zend-exception": "*",
+        "zf1s/zend-http": "*",
+        "zf1s/zend-oauth": "*",
+        "zf1s/zend-uri": "*",
+        "zf1s/zend-validate": "*"
     }
 }
